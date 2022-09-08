@@ -29,4 +29,9 @@ compiles and creates an executable named cisfun
 ```
 
 
+### [4-puts.c](./4-puts.c)
+```
+A c program that prints a string
+```
+
 
