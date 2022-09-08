@@ -21,3 +21,12 @@ gcc -S $CFILE
 compiles but do not assemble
 ```
 
+
+### [3-name](./3-name)
+```
+gcc -o cisfun $CFILE
+compiles and creates an executable named cisfun
+```
+
+
+
