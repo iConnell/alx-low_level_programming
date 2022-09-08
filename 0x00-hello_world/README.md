@@ -37,5 +37,12 @@ A c program that prints a string using the puts function
 
 ### [5-printf.c](./5-printf.c)
 ```
-A c program that prings a string using the printf function
+A c program that prints a string using the printf function
 ```
+
+
+### [6-size.c](./6-size.c)
+```
+A c program that prints the size of primitive types
+```
+
