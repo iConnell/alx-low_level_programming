@@ -31,7 +31,11 @@ compiles and creates an executable named cisfun
 
 ### [4-puts.c](./4-puts.c)
 ```
-A c program that prints a string
+A c program that prints a string using the puts function
 ```
 
 
+### [5-printf.c](./5-printf.c)
+```
+A c program that prings a string using the printf function
+```
