@@ -46,3 +46,10 @@ A c program that prints a string using the printf function
 A c program that prints the size of primitive types
 ```
 
+
+### [100-intel](./100-intel)
+```
+gcc -S -masm=intel $CFILE
+generates assembly code intel syntax
+```
+
