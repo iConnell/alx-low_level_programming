@@ -30,3 +30,9 @@ prints the alphabet in lower and upper case
 prints the alphabet in lower case except q and e
 ```
 
+
+### [5-print_numbers.c](./5-print_numbers.c)
+```
+prints all whole numbers from 0 to 9
+```
+
