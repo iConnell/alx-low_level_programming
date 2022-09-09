@@ -18,3 +18,9 @@ checks if the last digit of a random number is is less or greater than another n
 prints the alphabet in lower case
 ```
 
+
+### [3-print_alphabets.c](./3-print_alphabets.c)
+```
+prints the alphabet in lower and upper case
+```
+
