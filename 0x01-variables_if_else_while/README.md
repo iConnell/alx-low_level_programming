@@ -49,3 +49,8 @@ prints the lowercase alphabets in reverse
 ```
 
 
+### [8-print_base16.c](./8-print_base16.c)
+```
+prints all base 16 characters in lowercase
+```
+
