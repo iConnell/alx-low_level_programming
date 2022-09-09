@@ -13,3 +13,8 @@ checks if the last digit of a random number is is less or greater than another n
 ```
 
 
+### [2-print_alphabet.c](./2-print_alphabet.c)
+```
+prints the alphabet in lower case
+```
+
