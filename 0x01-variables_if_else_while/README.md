@@ -39,6 +39,13 @@ prints all whole numbers from 0 to 9
 
 ### [6-print_numberz.c](./6-print_numberz.c)
 ```
-prints all whole numbers from 0 to 9
+prints all whole numbers from 0 to 9 using only putchar
 ```
+
+
+### [7-print_tebahpla.c](./7-print_tebahpla.c)
+```
+prints the lowercase alphabets in reverse
+```
+
 
