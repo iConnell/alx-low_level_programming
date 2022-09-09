@@ -54,3 +54,9 @@ prints the lowercase alphabets in reverse
 prints all base 16 characters in lowercase
 ```
 
+
+### [9-print_comb.c](./9-print_comb.c)
+```
+prints all possible combination of single digit numbers
+```
+
