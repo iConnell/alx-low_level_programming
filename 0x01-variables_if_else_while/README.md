@@ -36,3 +36,9 @@ prints the alphabet in lower case except q and e
 prints all whole numbers from 0 to 9
 ```
 
+
+### [6-print_numberz.c](./6-print_numberz.c)
+```
+prints all whole numbers from 0 to 9
+```
+
