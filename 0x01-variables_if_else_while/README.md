@@ -24,3 +24,9 @@ prints the alphabet in lower case
 prints the alphabet in lower and upper case
 ```
 
+
+### [4-print_alphabt.c](./4-print_alphabt.c)
+```
+prints the alphabet in lower case except q and e
+```
+
