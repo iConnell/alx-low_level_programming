@@ -60,3 +60,10 @@ prints the every minute of the day
 prints the 9 times table
 ```
 
+
+### [10-add.c](./10-add.c)
+```
+returns the sum of two numbers
+```
+
+
