@@ -19,3 +19,9 @@ debug a program that prints the largest of three numbers
 ```
 
 
+### [3-print_remaining_days.c](./3-print_remaining_days.c)
+```
+debug a program that converts date to the day of the year
+```
+
+
