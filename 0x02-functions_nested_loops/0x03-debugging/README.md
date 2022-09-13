@@ -13,3 +13,9 @@ Checks and removes code block causing infinite loop
 ```
 
 
+### [2-largest_number.c](./2-largest_number.c)
+```
+debug a program that prints the largest of three numbers
+```
+
+
