@@ -49,3 +49,8 @@ returns the last digit of a number
 ```
 
 
+### [8-24_hours.c](./8-24_hours.c)
+```
+prints the every minute of the day
+```
+
