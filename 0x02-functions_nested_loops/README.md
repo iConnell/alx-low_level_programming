@@ -30,3 +30,9 @@ a function that checks if a given character is lowercase or not
 checks if a character is an alphabet
 ```
 
+
+### [5-sign.c](./5-sign.c)
+```
+checks if a number is zero, positive or negative
+```
+
