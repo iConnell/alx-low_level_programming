@@ -54,3 +54,9 @@ returns the last digit of a number
 prints the every minute of the day
 ```
 
+
+### [9-times_table.c](./9-times_table.c)
+```
+prints the 9 times table
+```
+
