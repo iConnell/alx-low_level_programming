@@ -12,3 +12,9 @@ prints the string _putchar followed by a new line
 a function that prints the alphabets in lower case
 ```
 
+
+### [2-print_alphabet_x10.c](./2-print_alphabet_x10.c)
+```
+a function that prints the alphabets in lower case ten times
+```
+
