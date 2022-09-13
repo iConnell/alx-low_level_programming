@@ -1,10 +1,10 @@
 #include "main.h"
 /**
- * _islower - checks if a character is lowercase
+ * _isalpha - checks if a character is an alphabet
  * @c : placeholder for the character to be checked
  * Return: int
  */
-int _islower(int c)
+int _isalpha(int c)
 
 {
 if ((c >= 97 && c <= 122) || (c >= 65 && c <= 90))
