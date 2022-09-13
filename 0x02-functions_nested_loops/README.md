@@ -36,3 +36,9 @@ checks if a character is an alphabet
 checks if a number is zero, positive or negative
 ```
 
+
+### [6-abs.c](./6-abs.c)
+```
+returns the absolute value of a number
+```
+
