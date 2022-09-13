@@ -42,3 +42,10 @@ checks if a number is zero, positive or negative
 returns the absolute value of a number
 ```
 
+
+### [7-print_last_digit.c](./7-print_last_digit.c)
+```
+returns the last digit of a number
+```
+
+
