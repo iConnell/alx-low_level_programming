@@ -24,3 +24,9 @@ a function that prints the alphabets in lower case ten times
 a function that checks if a given character is lowercase or not
 ```
 
+
+### [4-isalpha.c](./4-isalpha.c)
+```
+checks if a character is an alphabet
+```
+
