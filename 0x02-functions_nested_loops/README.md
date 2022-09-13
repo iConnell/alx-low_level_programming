@@ -18,3 +18,9 @@ a function that prints the alphabets in lower case
 a function that prints the alphabets in lower case ten times
 ```
 
+
+### [3-islower.c](./3-islower.c)
+```
+a function that checks if a given character is lowercase or not
+```
+
