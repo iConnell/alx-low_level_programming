@@ -61,3 +61,8 @@ prints fizz buzz n number of times
 ```
 
 
+### [10-print_triangle.c](./10-print_triangle.c)
+```
+prints a triangle with #
+```
+
