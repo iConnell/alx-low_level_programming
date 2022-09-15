@@ -31,3 +31,9 @@ prints numbers from 0 to 9 except 2 and 4
 ```
 
 
+### [5-more_numbers.c](./5-more_numbers.c)
+```
+prints numbers from 0 to 9 ten times
+```
+
+
