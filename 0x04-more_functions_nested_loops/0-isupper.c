@@ -1,4 +1,24 @@
-#include "main.h"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+M-x kill-emacs
+
+
+
+
+
 
 /**
  * _isupper - checks is letter is upper case

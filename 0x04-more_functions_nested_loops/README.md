@@ -37,3 +37,9 @@ prints numbers from 0 to 9 ten times
 ```
 
 
+### [6-print_line.c](./6-print_line.c)
+```
+print underscores n number of times
+```
+
+
