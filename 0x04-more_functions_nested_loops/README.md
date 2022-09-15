@@ -19,3 +19,9 @@ multiplies two integers and returns the product
 ```
 
 
+### [3-print_numbers.c](./3-print_numbers.c)
+```
+prints numbers from 0 to 9
+```
+
+
