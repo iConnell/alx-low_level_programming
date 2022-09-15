@@ -49,3 +49,9 @@ prints a diagonal using \
 ```
 
 
+### [8-print_square.c](./8-print_square.c)
+```
+prints squares with #
+```
+
+
