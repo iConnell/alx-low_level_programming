@@ -13,3 +13,9 @@ checks if a letter is a digit
 ```
 
 
+### [2-mul.c](./2-mul.c)
+```
+multiplies two integers and returns the product
+```
+
+
