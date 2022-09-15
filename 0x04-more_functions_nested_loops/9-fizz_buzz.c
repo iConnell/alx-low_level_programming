@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main - check the code for Holberton School students.
+ * main - entry point
  *
- * Return: void.
+ * Return: nothing
  */
 
 int main(void)
@@ -10,7 +10,7 @@ int main(void)
 
 	int i = 1;
 
-	for (; i <= 100; i++)
+	while (i <= 100)
 	{
 		if (i % 3 == 0 && i % 5 == 0)
 		{
@@ -34,7 +34,9 @@ int main(void)
 			putchar(' ');
 		}
 
+		i++;
 	}
 	putchar('\n');
+	return (0);
 
 }
