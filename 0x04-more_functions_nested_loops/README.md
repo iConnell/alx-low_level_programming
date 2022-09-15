@@ -55,3 +55,9 @@ prints squares with #
 ```
 
 
+### [9-fizz_buzz.c](./9-fizz_buzz.c)
+```
+prints fizz buzz n number of times
+```
+
+
