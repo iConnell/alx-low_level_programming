@@ -43,3 +43,9 @@ print underscores n number of times
 ```
 
 
+### [7-print_diagonal.c](./7-print_diagonal.c)
+```
+prints a diagonal using \
+```
+
+
