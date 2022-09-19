@@ -37,3 +37,9 @@ a function that prints a strings a string in reverse
 ```
 
 
+### [6-puts2.c](./6-puts2.c)
+```
+a function that prints every other character followed by a new line
+```
+
+
