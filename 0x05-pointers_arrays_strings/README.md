@@ -43,3 +43,9 @@ a function that prints every other character followed by a new line
 ```
 
 
+### [7-puts_half.c](./7-puts_half.c)
+```
+a function that prints half of a string
+```
+
+
