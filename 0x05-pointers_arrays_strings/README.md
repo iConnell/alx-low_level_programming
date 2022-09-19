@@ -13,3 +13,9 @@ swaps the values of two variables
 ```
 
 
+### [2-strlen.c](./2-strlen.c)
+```
+return the length of a string
+```
+
+
