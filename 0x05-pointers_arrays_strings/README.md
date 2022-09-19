@@ -25,3 +25,9 @@ a function that prints a string followed by a new line
 ```
 
 
+### [4-print_rev.c](./4-print_rev.c)
+```
+a function to that prints a string in reverse
+```
+
+
