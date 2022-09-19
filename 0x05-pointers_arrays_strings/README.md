@@ -48,4 +48,9 @@ a function that prints every other character followed by a new line
 a function that prints half of a string
 ```
 
+### [8-print_array.c](./8-print_array.c)
+```
+prints n elements of an array of integers, followed by a new line.
+```
+
 
