@@ -31,3 +31,9 @@ a function to that prints a string in reverse
 ```
 
 
+### [5-rev_string.c](./5-rev_string.c)
+```
+a function that prints a strings a string in reverse
+```
+
+
