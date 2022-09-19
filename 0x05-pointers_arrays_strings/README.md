@@ -54,3 +54,9 @@ prints n elements of an array of integers, followed by a new line.
 ```
 
 
+### [9-strcpy.c](./9-strcpy.c)
+```
+a function that copies the string pointed to by src
+```
+
+
