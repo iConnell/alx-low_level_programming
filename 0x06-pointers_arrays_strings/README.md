@@ -19,3 +19,9 @@ a function that copies a string
 ```
 
 
+### [3-strcmp.c](./3-strcmp.c)
+```
+a function that compares two strings
+```
+
+
