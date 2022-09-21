@@ -37,3 +37,9 @@ a function that chages all the lowercase characters to uppercase
 ```
 
 
+### [6-cap_string.c](./6-cap_string.c)
+```
+a function that changes all the all the words in a string to uppercase
+```
+
+
