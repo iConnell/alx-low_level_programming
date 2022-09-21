@@ -31,3 +31,9 @@ a function that reverses an array of integers
 ```
 
 
+### [5-string_toupper.c](./5-string_toupper.c)
+```
+a function that chages all the lowercase characters to uppercase
+```
+
+
