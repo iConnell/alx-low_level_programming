@@ -25,3 +25,9 @@ a function that compares two strings
 ```
 
 
+### [4-rev_array.c](./4-rev_array.c)
+```
+a function that reverses an array of integers
+```
+
+
