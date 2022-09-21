@@ -7,3 +7,9 @@ a function that concatnates two strings
 ```
 
 
+### [1-strncat.c](./1-strncat.c)
+```
+a function that concatenates two strings
+```
+
+
