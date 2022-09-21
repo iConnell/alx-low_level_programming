@@ -43,3 +43,8 @@ a function that changes all the all the words in a string to uppercase
 ```
 
 
+### [7-leet.c](./7-leet.c)
+```
+a function that encodes a string into 1337
+```
+
