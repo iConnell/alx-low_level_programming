@@ -1,44 +1,44 @@
+
 #include <stdio.h>
 #include <stdlib.h>
-/**
- * isInteger - checks if s is an integer
- * @s: string to check
- * Return: 0 or 1
- */
-
-int isInteger(const char *s)
-{
-int i = 0;
-while (s[i] != '\0')
-{
-	if (s[i] < '0' || s[i] > '9')
-		return (1);
-	i++;
-}
-return (0);
-}
+#include <string.h>
+#include <ctype.h>
 
 /**
- * main - adds positive numbers
- * @argc: int
- * @argv: list
- * Return: 0
+ * main - Program that takes in all integer arguments and returns the sum
+ * @argc: Number of command line arguments
+ * @argv: Array name
+ * Return: 1 if a non-integer is among the passed in arguments, 0 otherwise
  */
 
-int main(int argc, char const *argv[])
+int main(int argc, char *argv[])
 {
-int sum = 0;
-while (--argc)
-{
-	if (isInteger(argv[argc]))
+	int i, j, length, sum;
+	char *ptr;
+
+	if (argc < 2)
+	printf("0\n");
+	else
 	{
-		printf("Error\n");
-		return (1);
+		sum = 0;
+		for (i = 1; i < argc; i++)
+		{
+			ptr = argv[i];
+			length = strlen(ptr);
+
+			for (j = 0; j < length; j++)
+			{
+				if (isdigit(*(ptr + j)) == 0)
+				{
+					printf("Error\n");
+					return (1);
+				}
+			}
+
+			sum += atoi(argv[i]);
+		}
+
+		printf("%d\n", sum);
 	}
-	sum += atoi(argv[argc]);
+	return (0);
 }
-
-printf("%i\n", sum);
-
-return (0);
-}}
