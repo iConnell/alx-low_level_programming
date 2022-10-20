@@ -5,3 +5,10 @@
 prints all the elements of a linked list
 ```
 
+
+### [1-list_len.c](./1-list_len.c)
+```
+returns the number of nodes on a linked list
+```
+
+
