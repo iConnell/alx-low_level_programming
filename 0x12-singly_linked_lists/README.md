@@ -24,4 +24,8 @@ add a new node at the end of a linked list
 ```
 
 
+### [4-free_list.c](./4-free_list.c)
+```
+frees a linked list
+```
 
