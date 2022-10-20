@@ -18,3 +18,10 @@ add a new node at the beginning of a linked list
 ```
 
 
+### [3-add_node_end.c](./3-add_node_end.c)
+```
+add a new node at the end of a linked list
+```
+
+
+
