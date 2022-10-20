@@ -12,3 +12,9 @@ returns the number of nodes on a linked list
 ```
 
 
+### [2-add_node.c](./2-add_node.c)
+```
+add a new node at the beginning of a linked list
+```
+
+
